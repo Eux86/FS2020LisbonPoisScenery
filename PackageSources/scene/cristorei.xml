@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: bridge-->
+	<SceneryObject lat="38.70119520931923" lon="-9.17931233073568" alt="15.27542925971831" pitch="-0.026528" bank="-0.148331" heading="-99.792356" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{D9B59454-E5FF-481D-9C85-A86FE9DE0D3E}" scale="76.912415"/>
+	</SceneryObject>
+	<!--SceneryObject name: cristo-->
+	<SceneryObject lat="38.67851522355654" lon="-9.17097833609461" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-88.100397" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C44D7CD6-6082-417F-BA39-7B486EDADA84}" scale="1.000000"/>
+	</SceneryObject>
+</FSData>
+

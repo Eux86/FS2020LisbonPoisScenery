@@ -1,0 +1,8 @@
+<Project Version="2" Name="icao" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\eux-airport-lppt-pois.xml</Package>
+	</Packages>
+</Project>
+
